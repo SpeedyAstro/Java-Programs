@@ -1,5 +1,5 @@
 import java.util.Scanner;
-import java.util.Random;
+import java.util.Random; //random library
 public class RockPaperScissor {
     public static void main(String[] args) {
         int i = 0;
