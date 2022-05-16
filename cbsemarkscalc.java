@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class cbsemarkscalc {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        System.out.println("Enter marks of english");
+        System.out.println("Enter marks of english ");
         float a = sc.nextFloat();
         System.out.println("Enter marks of Maths");
         float b = sc.nextFloat();
