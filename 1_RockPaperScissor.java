@@ -6,7 +6,7 @@ public class RockPaperScissor {
         Scanner sc = new Scanner(System.in); //declaration
         Random rd = new Random(); // random instance declaration
         System.out.println("Enter Number of Matches > :");
-        int n = sc.nextInt(); // for no of matches
+        int n = sc.nextInt(); // for number of matches
         while (i<=n){
             int ai = rd.nextInt(3)+1; // random number generated
             System.out.println("Enter Your Choice > :");
